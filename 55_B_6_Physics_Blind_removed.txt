@@ -10,60 +10,60 @@ Read the following instructions carefully and follow them :
 (viii) There is no overall choice given in the question paper. However, an internal choice has been provided in few questions in all the Sections except Section A.
 (ix) Use of calculator is not allowed.
 You may use the following values of physical constants wherever necessary :
-c = 3 ´ 108 m/s
-h = 6.63 ´ 10-34 Js
-e = 1.6 ´ 10-19 C
-m0 = 4p ´ 10-7 T m A-1
-e0 = 8.854 ´ 10-12 C2 N-1 m-2
+c = 3 Â´ 108 m/s
+h = 6.63 Â´ 10-34 Js
+e = 1.6 Â´ 10-19 C
+m0 = 4p Â´ 10-7 T m A-1
+e0 = 8.854 Â´ 10-12 C2 N-1 m-2
 
 1
 
 
 4pe0
 
-= 9 ´ 109 N m2 C-2
+= 9 Â´ 109 N m2 C-2
 
-Mass of electron (me) = 9.1 ´ 10-31 kg Mass of neutron = 1.675 ´ 10-27 kg
-Mass of proton = 1.673 ´ 10-27 kg
-Avogadro's number = 6.023 ´ 1023 per gram mole Boltzmann constant = 1.38 ´ 10-23 JK-1
+Mass of electron (me) = 9.1 Â´ 10-31 kg Mass of neutron = 1.675 Â´ 10-27 kg
+Mass of proton = 1.673 Â´ 10-27 kg
+Avogadro's number = 6.023 Â´ 1023 per gram mole Boltzmann constant = 1.38 Â´ 10-23 JK-1
 
 SECTION A
 
 1. Three points charges + q, - 4q and + 2q are kept at the vertices of an equilateral triangle of side 'a'. The electrostatic potential energy of this system of charges is :
 
-1	æ q2 ö
+1	Ã¦ q2 Ã¶
 
-1	æ 8q 2 ö
+1	Ã¦ 8q 2 Ã¶
 
 (A)	-
 
-4p e0 ç a2 ÷
+4p e0 Ã§ a2 Ã·
 
 (B)	+
 
-4p e0 ç a2 ÷
+4p e0 Ã§ a2 Ã·
 
-è	ø
-1	æ 6q2 ö
+Ã¨	Ã¸
+1	Ã¦ 6q2 Ã¶
 
-è	ø
-1 æ 10q2 ö
+Ã¨	Ã¸
+1 Ã¦ 10q2 Ã¶
 
 (C)	+
 
-4p e0 ç	a	÷
+4p e0 Ã§	a	Ã·
 
 (D)	-
 
-4p e0 ç	a	÷
+4p e0 Ã§	a	Ã·
 
-è	ø	è	ø
+Ã¨	Ã¸	Ã¨	Ã¸
 
 2. The element of a heater is cut into two equal parts. Now only one part is used in the heater. The heat generated now as compared to the original rating of the heater will be :
 (A) halved	(B)  doubled
 (C)  four times	(D)  same
 
-3. A bar magnet of magnetic moment 4 JT-1 is kept along the direction of magnetic field of 0.4 T. The work done to rotate the magnet through an angle of 90° is :
+3. A bar magnet of magnetic moment 4 JT-1 is kept along the direction of magnetic field of 0.4 T. The work done to rotate the magnet through an angle of 90Â° is :
 (A) Zero	(B)  - 1.6 J
 (C)  - 0.2 J	(D)  1.6 J
 
@@ -107,8 +107,8 @@ p
 (C)
 
 M 3/2
-ç	÷
-è	ø
+Ã§	Ã·
+Ã¨	Ã¸
 
 (B)		m M
 
@@ -215,8 +215,8 @@ is :	1
 (C) Equipotential surfaces always enclose some volume.
 (D) Two equipotential surfaces do not intersect each other.
 (iv) (a)	The angle between the electric field at a point and outward normal at that point on an equipotential surface is :	1
-(A) 90°	(B)	45°
-(C)	30°	(D)	0°
+(A) 90Â°	(B)	45Â°
+(C)	30Â°	(D)	0Â°
 OR
 (iv) (b)	A and B are two equipotential surfaces around a point charge Q. Surface A is closer to the charge than surface B.
 If a test charge is released between them, it will :	1
@@ -288,8 +288,8 @@ q in a uniform magnetic field B
 with initial velocity (r)
 
 (1) at an angle q with field direction,
-(2) perpendicular to the field direction (q = 90°), and
-(3) parallel to the field direction (q = 0°).
+(2) perpendicular to the field direction (q = 90Â°), and
+(3) parallel to the field direction (q = 0Â°).
 (ii)	An electron is moving along a circular path of radius
 18.2 % 10-2 m in a uniform magnetic field 2 % 10-3 T.
 Calculate :	5
