@@ -11,22 +11,22 @@ Read the following instructions carefully and follow them :
 (ix) Kindly note that there is a separate question paper for Visually Impaired candidates.
 (x) Use of calculators is not allowed.
 You may use the following values of physical constants wherever necessary :
-c = 3 ´ 108 m/s
-h = 6.63 ´ 10-34 Js
-e = 1.6 ´ 10-19 C
-m0 = 4p ´ 10-7 T m A-1
-e0 = 8.854 ´ 10-12 C2 N-1 m-2
+c = 3 Â´ 108 m/s
+h = 6.63 Â´ 10-34 Js
+e = 1.6 Â´ 10-19 C
+m0 = 4p Â´ 10-7 T m A-1
+e0 = 8.854 Â´ 10-12 C2 N-1 m-2
 
 1
 
 
 4 pe0
 
-= 9 ´ 109 N m2 C-2
+= 9 Â´ 109 N m2 C-2
 
-Mass of electron (me) = 9.1 ´ 10-31 kg
-Mass of neutron = 1.675 ´ 10-27 kg Mass of proton = 1.673 ´ 10-27 kg
-Avogadro's number = 6.023 ´ 1023 per gram mole Boltzmann constant = 1.38 ´ 10-23 JK-1
+Mass of electron (me) = 9.1 Â´ 10-31 kg
+Mass of neutron = 1.675 Â´ 10-27 kg Mass of proton = 1.673 Â´ 10-27 kg
+Avogadro's number = 6.023 Â´ 1023 per gram mole Boltzmann constant = 1.38 Â´ 10-23 JK-1
 
 SECTION A
 1. The electric field E associated with an electromagnetic wave is represented by
@@ -49,7 +49,7 @@ Hz through a
 
 
 resistor of 100 W. The phase difference between the voltage (V) applied and current (I) is :
-(A) 120°	(B)	90°	(C)	60°	(D)	45°
+(A) 120Â°	(B)	90Â°	(C)	60Â°	(D)	45Â°
 3. m, mn and mp represents masses of	AX nucleus, a neutron and a proton,
 respectively. Then :
 (A) m < (A - Z) mn + Z mp	(B)	m = (A - Z) mn + Z mp
@@ -82,15 +82,15 @@ B2 l2 v R
 (C) first virtual and then real
 (D) first real and then virtual
 7. A current of 5 A is flowing in a wire of length 1.5 cm. A force of 7.5 mN acts on it when it is placed in a uniform magnetic field of 0.2 T. The angle between the magnetic field and the direction of current is :
-(A) 30°	(B)	45°	(C)	60°	(D)	90°
+(A) 30Â°	(B)	45Â°	(C)	60Â°	(D)	90Â°
 
 8. Two particles A and B of the same mass but having charges q and 4q respectively, are accelerated from rest through different potential differences VA and VB such
 
-that they attain same kinetic energies. The value of æ VA
+that they attain same kinetic energies. The value of Ã¦ VA
 VB
 
-ö
-÷ is :
+Ã¶
+Ã· is :
 
 
 (A) 1
@@ -100,13 +100,13 @@ VB
 (B) 1
 2
 
-è	ø
+Ã¨	Ã¸
 
 (C) 2	(D)	4
 
 9. Which of the following statements is correct for alpha particle scattering experiment ?
 (A) For angle of scattering q " 0, the impact parameter is small.
-(B) For angle of scattering q Ä p, the impact parameter is large.
+(B) For angle of scattering q Ã„ p, the impact parameter is large.
 (C) The number of alpha particles undergoing head-on collision is small.
 (D) The experiment provides an estimate of the upper limit to the size of target atom.
 10. Which one of the given graphs correctly represents the variation of photoelectric current with the intensity of incident radiation, keeping other parameters fixed ?
@@ -150,7 +150,7 @@ their formation.	2
 19. (a) A cell is connected across an external resistance 12 W and supplies 0.25 A current. When the external resistance is increased by 4 W, the current reduces to 0.2 A. Calculate (i) the emf, and (ii) the internal resistance, of
 the cell.	2
 OR
-(b)	Two point charges of 3 mC and 4 mC are kept in air at (0·3 m, 0) and (0, 0.3 m) in x-y plane. Find the magnitude and direction of the net electric
+(b)	Two point charges of 3 mC and 4 mC are kept in air at (0Â·3 m, 0) and (0, 0.3 m) in x-y plane. Find the magnitude and direction of the net electric
 field produced at the origin (0, 0).	2
 20. A point light source rests on the bottom of a bucket filled with a liquid of refractive index m = 1.25 up to height of 10 cm. Calculate :
 (a) the critical angle for liquid-air interface
@@ -175,7 +175,7 @@ the net electric field ( E ) at points A, B and C.	3
 A , where
 r2
 
-A = 2 ´ 106 NC-1 m2 and
+A = 2 Â´ 106 NC-1 m2 and
 
 (r)r is the position vector of the point under
 
@@ -184,7 +184,7 @@ consideration. Calculate the electrostatic potential energy of the system.	3
 (a) During charging of a capacitor, displacement current exists in the capacitor. But there is no displacement current when it gets fully charged.
 (b) The frequency of microwaves in ovens matches with the resonant frequency of water molecules.
 (c) Infrared waves are also known as heat waves.
-25. Radiations of frequency 3.0 ´ 1015 Hz are incident on a photosensitive surface of threshold frequency 1.0 ´ 1015 Hz. Calculate :	3
+25. Radiations of frequency 3.0 Â´ 1015 Hz are incident on a photosensitive surface of threshold frequency 1.0 Â´ 1015 Hz. Calculate :	3
 (a) work function of the surface
 (b) maximum kinetic energy of photoelectrons
 
@@ -192,7 +192,7 @@ consideration. Calculate the electrostatic potential energy of the system.	3
 
 cm2 is placed inside a long solenoid at its centre
 
-such that its axis makes an angle of 60° with the axis of the solenoid. The number of turns per cm is 10 in the solenoid. The current in the solenoid changes
+such that its axis makes an angle of 60Â° with the axis of the solenoid. The number of turns per cm is 10 in the solenoid. The current in the solenoid changes
 uniformly from 5 A to zero in 10 ms. Calculate the emf induced in the loop.	3
 27. An ideal resistor R, an ideal inductor L and an ideal capacitor C are connected, one by one, across the same source of ac voltage v = v0 sin wt. It is observed that the same current I flows in each case.
 (a) What will be the instantaneous value of current that will flow through their series combination when connected across the same source ?
@@ -221,9 +221,27 @@ OR
 (iii) In a p-n junction diode, the majority charge carriers on p-side and on
 n-side are, respectively :	1
 
-(A)	electrons, electrons(B)electrons, holes(C)	holes, holes(D)holes, electrons
+(A)	electrons, electrons
+(B)
+electrons, holes
+(C)	holes, holes
+(D)
+holes, electrons
+
 (iv) If the frequency of the half-wave rectifier is 50 Hz, the frequency of
-full-wave rectifier is :1(A)	25 Hz(B)50 Hz(C)	100 Hz(D)200 Hz
+full-wave rectifier is :
+
+
+1
+(A)	25 Hz
+(B)
+50 Hz
+
+(C)	100 Hz
+(D)
+200 Hz
+
+
 
 30. Dipoles, whether electric or magnetic, are characterised by their dipole moments, which are vector quantities. Two equal and opposite charges separated by a small distance constitute an electric dipole, while a current carrying loop behaves as a magnetic dipole. Electric dipoles create electric fields around them. Electric dipoles experience a torque when placed in an external electric field.
 
@@ -237,8 +255,8 @@ full-wave rectifier is :1(A)	25 Hz(B)50 Hz(C)	100 Hz(D)200 Hz
 
 axis, and (2) on equatorial plane, respectively. Then
 
-æ E1 ö ç	÷
-è	ø
+Ã¦ E1 Ã¶ Ã§	Ã·
+Ã¨	Ã¸
 
 is :	1
 
@@ -250,18 +268,30 @@ is :	1
 (C) 
 2	(D)	4
 
-(iii) An electric dipole of dipole moment 5.0 ´ 10-8 Cm is placed in a region where an electric field of magnitude 1.0 ´ 103 N/C acts at a given instant.
+(iii) An electric dipole of dipole moment 5.0 Â´ 10-8 Cm is placed in a region where an electric field of magnitude 1.0 Â´ 103 N/C acts at a given instant.
 
 At that instant the electric field
 
-(r) is inclined at an angle of 30° to dipole
+(r) is inclined at an angle of 30Â° to dipole
 
 moment
 
 (r). The magnitude of torque acting on the dipole, at that instant
 
 
-is :1(A)2.5 ´ 10-5 Nm(B)	5.0 ´ 10-5 Nm(C)1.0 ´ 10- 4 Nm(D)	2.0 ´ 10- 6 Nm
+is :
+
+
+1
+(A)
+2.5 Â´ 10-5 Nm
+(B)	5.0 Â´ 10-5 Nm
+
+(C)
+1.0 Â´ 10- 4 Nm
+(D)	2.0 Â´ 10- 6 Nm
+
+
 (iv) (a)	An electron is revolving with speed v around the proton in a hydrogen atom, in a circular orbit of radius r. The magnitude of magnetic dipole moment of the electron is :	1
 (A) 4 evr	(B)	2 evr
 
@@ -278,14 +308,14 @@ OR
 
 (b) A square loop of side 5.0 cm carries a current of 2.0 A. The magnitude of magnetic dipole moment associated with the loop is :	1
 
-(A) 1.0 ´ 10-3 Am2	(B)	5.0 ´ 10-3 Am2
+(A) 1.0 Â´ 10-3 Am2	(B)	5.0 Â´ 10-3 Am2
 
-(C)	1.0 ´ 10-2 Am2	(D)	5.0 ´ 10-2 Am2
+(C)	1.0 Â´ 10-2 Am2	(D)	5.0 Â´ 10-2 Am2
 
 SECTION E
 
 31. (a) (i)  With the help of a labelled diagram, explain the working of an ac generator. Obtain the expression for the emf induced at an instant 't'.
-(ii)  A long, straight horizontal wire X¢X is held stationary and carries a current of 3.0 A. A square loop MNPS of side 10 cm, carrying a current of 1.0 A is kept near the wire X¢X as shown in the figure.
+(ii)  A long, straight horizontal wire XÂ¢X is held stationary and carries a current of 3.0 A. A square loop MNPS of side 10 cm, carrying a current of 1.0 A is kept near the wire XÂ¢X as shown in the figure.
 Find the magnitude and direction of the net magnetic force acting
 on the loop due to the wire.	5
 OR
@@ -296,7 +326,7 @@ OR
 (2) impedance of the circuit	5
 
 32. (a) (i) What are the two main considerations for designing the objective and eyepiece lenses of an astronomical telescope ? Obtain the expression for magnifying power of the telescope when the final image is formed at infinity.
-(ii) A ray of light is incident at an angle of 45° at one face of an equilateral triangular prism and passes symmetrically through the prism. Calculate :
+(ii) A ray of light is incident at an angle of 45Â° at one face of an equilateral triangular prism and passes symmetrically through the prism. Calculate :
 (1) the angle of deviation produced by the prism
 (2) the refractive index of the material of the prism	5
 OR
@@ -306,7 +336,7 @@ When the liquid is removed and the experiment is repeated, the new distance is 3
 
 
 33. (a) (i) What are matter waves ? A particle of mass m and charge q is accelerated from rest through a potential difference V. Obtain an expression for de Broglie wavelength associated with the particle.
-(ii) Monochromatic light of frequency 5.0 ´ 1014 Hz is produced by a source of power output 3.315 mW. Calculate :
+(ii) Monochromatic light of frequency 5.0 Â´ 1014 Hz is produced by a source of power output 3.315 mW. Calculate :
 (1) energy of the photon in the beam
 (2) number of photons emitted per second by the source	5
 OR
